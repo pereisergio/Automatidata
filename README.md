@@ -1,8 +1,6 @@
-![DcB4M5HRTBak-pHjrIEKcA_c155941e20c7465794baf18cc3c746f1_image](https://github.com/user-attachments/assets/7a06a64e-b966-4166-9943-6f32f5e35508)
-<h1 align="center">
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge](https://github.com/user-attachments/assets/7a06a64e-b966-4166-9943-6f32f5e35508"/>
-</h1>
 <p align="center"><img src="https://github.com/user-attachments/assets/7a06a64e-b966-4166-9943-6f32f5e35508"/></p>
+
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 
 Project goal: 
 
