@@ -72,6 +72,6 @@ To use the templates for this course item, click each link of the following link
 
 Links to templates:  
 
-- [PACE strategy document]
+- [PACE strategy document](#Automatidata/Templates/Activity-Template_-strategy-document.docx)
 
-- [Executive summary templates]
+- [Executive summary templates](#Automatidata/Templates/Activity-Templates_-Executive-summaries.pptx)
