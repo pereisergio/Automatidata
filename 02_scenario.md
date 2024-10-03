@@ -99,3 +99,56 @@ Your Python notebook for this project includes a guided framework that will assi
 You will also discover questions in this Python notebook designed to help you gather the relevant information you’ll need to write an executive summary for your team.
 
 Use your completed PACE strategy document and Python notebook to help you prepare your executive summary.
+
+### Data Dictionary
+
+This project uses a dataset called 2017_Yellow_Taxi_Trip_Data. It contains data gathered by the New York City Taxi & Limousine Commission. For each trip, there are many different data variables gathered. Please find the attached dataset below. 
+
+The dataset contains:
+
+- [Data]()
+
+**408,294 rows** – each row represents a different trip
+
+**18 columns**
+
+| **Column name** | **Description** |
+|-----------|-----------|
+| ID | Trip identification number |
+| VendorID | A code indicating the TPEP provider that provided the record.<br>**1= Creative Mobile Technologies, LLC;**<br>**2= VeriFone Inc.**|
+| tpep_pickup_datetime | The date and time when the meter was engaged. |
+| tpep_dropoff_datetime |The date and time when the meter was disengaged. |
+| Passenger_count | The number of passengers in the vehicle.<br>This is a driver-entered value. |
+| Trip_distance |The elapsed trip distance in miles reported by the taximeter. |
+| PULocationID | TLC Taxi Zone in which the taximeter was engaged |
+| DOLocationID | TLC Taxi Zone in which the taximeter was disengaged |
+| RateCodeID | The final rate code in effect at the end of the trip.<br>**1= Standard rate**<br>**2=JFK**<br>**3=Newark**<br>**4=Nassau or Westchester**<br>**5=Negotiated fare**<br>**6=Group ride** |
+| Store_and_fwd_flag | |This flag indicates whether the trip record was held in vehicle memory before being sent to the vendor, aka “store and forward,”  because the vehicle did not have a connection to the server.<br>**Y= store and forward trip**<br>**N= not a store and forward trip** |
+| Payment_type | A numeric code signifying how the passenger paid for the trip.<br>**1= Credit card**<br>**2= Cash**<br>**3= No charge**<br>**4= Dispute**<br>**5= Unknown**<br>**6= Voided trip** |
+| Fare_amount |The time-and-distance fare calculated by the meter. |
+| Extra | Miscellaneous extras and surcharges. Currently, this only includes the $0.50 and $1 rush hour and overnight charges. |
+| MTA_tax | $0.50 MTA tax that is automatically triggered based on the metered rate in use. |
+| Improvement_surcharge | $0.30 improvement surcharge assessed trips at the flag drop. The  improvement surcharge began being levied in 2015. |
+| Tip_amount | Tip amount – This field is automatically populated for credit card tips. Cash tips are not included. |
+| Tolls_amount | Total amount of all tolls paid in trip. |
+| Total_amount | The total amount charged to passengers. Does not include cash tips. |
+
+### Step 3: Complete your PACE strategy document
+
+The PACE strategy document includes questions that will help guide you through the Automatidata workplace scenario project. Answer the questions in your PACE strategy document to prepare for using Python to inspect and organize your data. 
+
+As a reminder, the PACE strategy document is designed to help you complete the contents for each of the templates provided. You might navigate back and forth between the PACE strategy document and the Python notebook. Make sure your PACE strategy document is complete before preparing your executive summary. 
+
+### Step 4: Prepare an executive summary
+
+Your executive summary will keep your teammates at Automatidata informed of your progress. The one-page format is designed to respect teammates and stakeholders who may not have time to read and understand an entire report. 
+
+First, select one of the executive summary design layouts from the provided template. Then, add the relevant information. Your executive summary should include the following:
+
+- A summary of your tasks
+
+- Information regarding the results of your data variable assessment
+
+- Identify recommended next steps in order to build a predictive model
+
+- Complete your executive summary to effectively communicate your results to your teammates. 
