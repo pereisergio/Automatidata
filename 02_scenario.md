@@ -40,9 +40,9 @@ Email from Luana Rodriquez, Senior Data Analyst
 
 **Subject:** RE: Help with coding notebook?
 
-**From:**  “Luana Rodriquez” Luana@automatidata
+**From:**  “Luana Rodriquez” ```Luana@automatidata.com```
 
-**Cc:** “Deshawn Washington,” Deshawn@automatidata
+**Cc:** “Deshawn Washington,” ```Deshawn@automatidata.com```
 
 Nice to meet you (virtually)! 
 
