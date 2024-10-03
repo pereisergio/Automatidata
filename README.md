@@ -24,4 +24,4 @@ You have received notice that the recently submitted New York City TLC project p
 
 * Create an executive summary for Automatidata
 
-Note: * *The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes. * *
+**_Note:_** *The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes.*
