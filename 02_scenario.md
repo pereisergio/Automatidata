@@ -12,9 +12,9 @@ You discover two new emails in your inbox: one from your supervisor, Deshawn Was
 
 **Subject:** Help with coding notebook?
 
-**From:** “Deshawn Washington,” Deshawn@automatidata.com
+**From:** “Deshawn Washington,” ```Deshawn@automatidata.com```
 
-**Cc:** “Luana Rodriquez” Luana@automatidata.com
+**Cc:** “Luana Rodriquez” ```Luana@automatidata.com```
 
 Good morning team,
 
