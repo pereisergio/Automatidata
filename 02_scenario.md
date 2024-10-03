@@ -75,3 +75,27 @@ Links to templates:
 - [PACE strategy document](https://github.com/pereisergio/Automatidata/tree/main/Templates/)
 
 - [Executive summary templates](https://github.com/pereisergio/Automatidata/tree/main/Templates/)
+
+### Step 2: Access the end-of-course project lab
+
+**_Note_**: *The following lab is also the next course item. Once you complete and submit your end-of-course project activity, return to the lab instructions’ page and click Next to continue on to the exemplar reading.*
+
+To access the end-of-course project lab, click the following link and select Open Lab. 
+
+- [Automatidata project lab]()
+
+Your Python notebook for this project includes a guided framework that will assist you with the required coding. Input the code and answer the questions in your Python notebook to inspect and organize your data. You’ll find helpful reminders for tasks like: 
+
+- Importing data
+
+- Loading necessary packages
+
+- Identifying relevant data structures and summarizing data
+
+- Extracting information from columns
+
+- Combining or modifying data structures to create meaningful variables
+
+You will also discover questions in this Python notebook designed to help you gather the relevant information you’ll need to write an executive summary for your team.
+
+Use your completed PACE strategy document and Python notebook to help you prepare your executive summary.
