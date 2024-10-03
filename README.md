@@ -1,4 +1,6 @@
-Automatidata logo
+
+![DcB4M5HRTBak-pHjrIEKcA_c155941e20c7465794baf18cc3c746f1_image](https://github.com/user-attachments/assets/7a06a64e-b966-4166-9943-6f32f5e35508)
+
 Project goal: 
 
 In this fictional scenario, the New York City Taxi and Limousine Commission (TLC) has approached the data consulting firm Automatidata to develop an app that enables TLC riders to estimate the taxi fares in advance of their ride.
